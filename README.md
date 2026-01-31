@@ -7,7 +7,6 @@ HR Telegram Bot
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13+-316192.svg)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-2CA5E0.svg)
 ![Gemini](https://img.shields.io/badge/Google-Gemini_AI-4285F4.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 **AI-Powered HR Assistant for Telegram**
 
